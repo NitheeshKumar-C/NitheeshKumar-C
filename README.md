@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitheeshKumar-C
 - 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning FRONT-END development.
 
 <!---
 NitheeshKumar-C/NitheeshKumar-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
