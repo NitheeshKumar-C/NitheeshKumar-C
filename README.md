@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NitheeshKumar-C
+- 👋 Hi, I’m @Nitheeshkumar
 - 👀 I’m interested in Full stack web development.
 - 🌱 I’m currently learning FRONT-END development.
 
